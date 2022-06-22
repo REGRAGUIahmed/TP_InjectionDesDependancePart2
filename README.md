@@ -1,5 +1,5 @@
 # TP_InjectionDesDependancePart2
-C'est la même application de la patie 1, mais cette fois-ci on a utiliser Spring
+C'est la même application de la patie 1, mais cette fois-ci on a utiliser Spring  
 Les commandes maven à savoir :  
 1 > mvn compile : demander à Maven de compiler le projet  
 ![image](https://user-images.githubusercontent.com/102111459/174482022-85a48c8c-349a-486b-acb6-fb1247c11bd2.png)  
